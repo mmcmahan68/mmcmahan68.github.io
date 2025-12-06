@@ -27,7 +27,7 @@ twitter_username:
 github_username:  
 
 # Build settings
-remote_theme: benbalter/retlab
+remote_theme: y7kim/agency-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
